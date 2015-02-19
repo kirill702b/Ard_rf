@@ -1,0 +1,2 @@
+Rf tx and rx on two boards arduino
+XD-RF-5V and XD-FST
